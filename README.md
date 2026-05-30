@@ -79,6 +79,4 @@ python -m streamlit run app.py
 3. Clique no ícone do lápis ✏️ no canto superior direito do quadro do arquivo.
 4. Apague o texto que está lá, cole esse novo e clique em **Commit changes**.
 
-O uso das *badges* no topo e a organização em blocos vão dar uma aparência impecável logo de cara. Como ficou o resultado visual na página principal do projeto?
-
 ```
