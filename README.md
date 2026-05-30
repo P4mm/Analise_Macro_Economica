@@ -1,9 +1,3 @@
-Com certeza! O `README.md` é a vitrine do seu repositório. Para um perfil focado na gestão de indicadores e automação de processos, esse documento precisa refletir organização, clareza técnica e visão estratégica.
-
-Vamos usar *badges* (aqueles selos visuais), emojis e uma estrutura de tópicos bem definida.
-
-Copie o código abaixo e atualize o seu arquivo `README.md` lá no GitHub:
-
 ```markdown
 # 📊 Análise Macroeconômica: IPCA & Selic
 
