@@ -1,3 +1,10 @@
+Com certeza! O `README.md` é a vitrine do seu repositório. Para um perfil focado na gestão de indicadores e automação de processos, esse documento precisa refletir organização, clareza técnica e visão estratégica.
+
+Vamos usar *badges* (aqueles selos visuais), emojis e uma estrutura de tópicos bem definida.
+
+Copie o código abaixo e atualize o seu arquivo `README.md` lá no GitHub:
+
+```markdown
 # 📊 Análise Macroeconômica: IPCA & Selic
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,3 +49,36 @@ Caso queira clonar o repositório e rodar o projeto na sua máquina:
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/P4mm/Analise_Macro_Economica.git](https://github.com/P4mm/Analise_Macro_Economica.git)
+
+```
+
+2. Instale as dependências:
+```bash
+pip install -r requirements.txt
+
+```
+
+
+3. Inicie o dashboard:
+```bash
+python -m streamlit run app.py
+
+```
+
+
+
+---
+
+*Desenvolvido para consolidar práticas de engenharia de dados, criação de dashboards interativos e análise de indicadores.*
+
+```
+
+### Como atualizar:
+1. Vá no seu repositório no GitHub.
+2. Clique no arquivo `README.md`.
+3. Clique no ícone do lápis ✏️ no canto superior direito do quadro do arquivo.
+4. Apague o texto que está lá, cole esse novo e clique em **Commit changes**.
+
+O uso das *badges* no topo e a organização em blocos vão dar uma aparência impecável logo de cara. Como ficou o resultado visual na página principal do projeto?
+
+```
