@@ -43,4 +43,4 @@ nome_arquivo = 'base_economica_bcb.csv'
 df_consolidado.to_csv(nome_arquivo, index=False, encoding='utf-8')
 
 print(f"\nSucesso! Arquivo '{nome_arquivo}' criado na sua pasta.")
-print(df_consolidado.tail()) # Mostra as últimas 5 linhas no terminal para você conferir
+print(df_consolidado.tail()) # Mostra as últimas 5 linhas no terminal para conferir
